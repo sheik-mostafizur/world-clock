@@ -18,10 +18,11 @@
 You can contribute to this project for your practice.
 
 1. Go to GitHub and [**Fork**](https://docs.github.com/en/get-started/quickstart/fork-a-repo) it.
-2. Clone it your local machine.
-3. Create a new [**branch**](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) using your username.
-4. Write your code and push it.
-5. Then send a [**pull requests**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+2. Clone it your local machine (Windows/Mac/Linux).
+3. Go to project form local machine and run this command `yarn install`
+4. Create a new [**branch**](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) using your username.
+5. Write your code and push it.
+6. Then send a [**pull requests**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 ================================================================
 
