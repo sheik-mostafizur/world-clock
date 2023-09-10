@@ -1,0 +1,23 @@
+.dldt {
+  max-width: 500px;
+  margin: auto;
+  padding: 0 1rem;
+  h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .clock {
+    margin: auto;
+    border: 1px solid;
+    padding: 1rem 0.5rem;
+
+    .time {
+      text-align: center;
+      font-size: 3rem;
+    }
+    h3 {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+  }
+}
